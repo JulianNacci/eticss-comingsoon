@@ -166,7 +166,7 @@ h1 {
 
 .enum {
   background-color: rgb(220, 220, 220);
-  height: 160px;
+  height: auto;
   padding: 20px;
   text-align: center;
   border: white 2px;
