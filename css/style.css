@@ -81,6 +81,8 @@ h1 {
   font-size: 18px;
   font-weight: 300;
   letter-spacing: 2px;
+  margin-bottom: 0px;
+
 }
 
 /* Vertical spacer to help content breathe */
@@ -185,4 +187,24 @@ h1 {
   text-align: center;
   padding: 7px 7px 2px 7px;
   background-color: rgb(220, 220, 220);
+}
+
+#e {
+  font-size: 1.5em;
+  letter-spacing: -2px;
+  font-weight: 500;
+}
+
+#ebis {
+  font-size: 23px;
+  font-weight: 300;
+  letter-spacing: 0px;
+}
+
+#ticssbis {
+  font-weight: 400;
+}
+
+#ticss {
+  font-weight: 600;
 }
