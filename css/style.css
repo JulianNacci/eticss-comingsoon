@@ -35,7 +35,13 @@ h1 {
 .logo {
   background-image: url('../images/logo.png');
   background-position: center;
-  height: 100px;
+  height: 0.3em;
+
+}
+
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 .social a {
@@ -56,7 +62,7 @@ h1 {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding-top: 150px;
+  padding-top: 75px;
   text-shadow: 0.5px 0.5px rgba(118,203,239,0.9);
 
 
@@ -147,7 +153,7 @@ h1 {
 }
 
 .header {
-  padding: 15px 30px 30px 20px;
+  padding: 15px 30px 30px 30px;
   background-color: rgb(245,245,245);
 }
 
